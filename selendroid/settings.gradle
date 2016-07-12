@@ -1,0 +1,2 @@
+rootProject.name = 'selendroid'
+include 'selendroid-test-app'

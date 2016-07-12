@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".VoiceRecognitionActivity">
+
+    <EditText
+        android:id="@+id/etTextHint"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:lines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etSearchHint"/>
+
+    <Button
+        android:id="@+id/btSpeak"
+        android:onClick="speak"
+        android:padding="@dimen/padding_medium"
+        android:text="@string/btSpeak"
+        tools:context=".VoiceRecognitionActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/etTextOut"
+        android:gravity="center"
+        android:inputType="textMultiLine"
+        android:lines="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/etTextOut"/>
+
+</LinearLayout>

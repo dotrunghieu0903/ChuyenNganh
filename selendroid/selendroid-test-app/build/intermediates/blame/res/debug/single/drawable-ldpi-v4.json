@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\selenium_icon.png",
+        "source": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\res\\drawable-ldpi\\selenium_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\voice.png",
+        "source": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\res\\drawable-ldpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mic.png",
+        "source": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\res\\drawable-ldpi\\mic.png"
+    },
+    {
+        "merged": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\person.png",
+        "source": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\res\\drawable-ldpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\speak.png",
+        "source": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\res\\drawable-ldpi\\speak.png"
+    },
+    {
+        "merged": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\chrome.png",
+        "source": "C:\\Users\\Minh\\AndroidStudioProjects\\GitSelendroid\\selendroid\\selendroid-test-app\\res\\drawable-ldpi\\chrome.png"
+    }
+]

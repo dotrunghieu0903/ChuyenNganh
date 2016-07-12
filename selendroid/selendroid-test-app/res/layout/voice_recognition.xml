@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".RecognitionActivity"
+    android:id="@+id/webviewTable"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/etTextHint"
+        android:inputType="textMultiLine"
+        android:layout_width="194dp"
+        android:layout_height="wrap_content"
+        android:text="@string/etSearchHint"
+        android:layout_row="4"
+        android:layout_column="10"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+            android:id="@+id/btSpeak"
+            android:onClick="speak"
+            android:padding="@dimen/padding_medium"
+            android:text="@string/btSpeak"
+            tools:context=".RecognitionActivity"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/websiteviewLocation"
+        android:text="WebView location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:id="@+id/spinner_webdriver_data"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        class="io.selendroid.testapp.view.SelendroidSpinner"
+        android:text="Web View Interaction" />
+
+    <Button
+        android:id="@+id/goBack"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:onClick="showHomeScreenDialog"
+        android:text="Go home" />
+
+    <WebView
+        android:id="@+id/mainWebsiteView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".70" />
+
+</LinearLayout>

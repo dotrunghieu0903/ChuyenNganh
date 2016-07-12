@@ -1,0 +1,1 @@
+CHANGED,C:\Users\Minh\AndroidStudioProjects\GitSelendroid\selendroid\selendroid-test-app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\io\selendroid\testapp\RecognitionActivity.class
